@@ -1,3 +1,3 @@
 # Vampire-Genocie-UE4
 
-[<img src="https://img.youtube.com/vi/gmAzhivpPto/maxresdefault.jpg" width="50%">](https://youtu.be/gmAzhivpPto)
+<video src='https://youtu.be/gmAzhivpPto' width=180/>
