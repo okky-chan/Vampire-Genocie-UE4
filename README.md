@@ -1,7 +1,3 @@
 # Vampire-Genocie-UE4
 
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/gmAzhivpPto" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+[![Everything Is AWESOME](https://yt-embed.herokuapp.com/embed?v=gmAzhivpPto)](https://www.youtube.com/watch?v=gmAzhivpPto "Everything Is AWESOME")
