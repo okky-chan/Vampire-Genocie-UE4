@@ -1,3 +1,5 @@
 # Vampire-Genocie-UE4
 
-[![Everything Is AWESOME](https://yt-embed.herokuapp.com/embed?v=gmAzhivpPto)](https://www.youtube.com/watch?v=gmAzhivpPto "Everything Is AWESOME")
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=gmAzhivpPto"><img src="https://img.youtube.com/vi/gmAzhivpPto/0.jpg" alt="IMAGE ALT TEXT"></a>
+</div>
